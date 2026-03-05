@@ -1,6 +1,6 @@
 ---
 name: update_blueprint_index
-description: A skill that is invoked when asked to update the blueprint index.
+description: Keeps the index in file with metadata from the blueprints.
 ---
 
 # Update Blueprint Index

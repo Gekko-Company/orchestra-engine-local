@@ -1,8 +1,9 @@
 ---
+title: Orchestra Workflow
 description: Use when a user starts their line with '/orch' (but not: '/orch status')
 ---
 
-# Orchestra Skill
+# Orchestra Workflow
 When the user starts a line with /orch, they want to create an artifact (blog posts, tweets, videos, research flows, ...) using a deterministic execution plan and the available skills in this repository.
 
 Plans are explained in detail in markdown files in the `blueprints` folder. 
@@ -48,5 +49,3 @@ ALWAYS: All output should be placed in a subfolder of the `./output` folder.
 /orch abort
 ```
 Stop the currently executing blueprint
-
- 

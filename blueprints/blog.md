@@ -1,6 +1,6 @@
 ---
 title: Writing a blog post
-description: Allows the user to write a professional blog post
+description: Allows the user to write a blog post
 ---
 
 # Writing a blog post
