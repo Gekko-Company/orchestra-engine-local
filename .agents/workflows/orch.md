@@ -1,5 +1,4 @@
 ---
-title: Orchestra Workflow
 description: Use when a user starts their line with '/orch' (but not: '/orch status')
 ---
 
@@ -19,11 +18,8 @@ Primary usage example
 
 The brief will explain the requested artifact, topic and/or additional instructions.
 
-First, find all blueprints in the index that would generate the reqested artifact.
-  - if there are no matches, the run terminates. Let the user know you found no matching blueprints in the repo
-  - if there are multiple matches, ask the user to pick the best one
-  
-Then, locate the full blueprint and run through the steps to create the user's artifact.
+Please refer to [meta-skill-process-blueprints.md](./meta-skill-process-blueprints.md) for the steps on identifying and processing blueprints for the requested artifact.
+
 
 
 Example:
